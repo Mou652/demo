@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="having Value" />
       <item value="设置Http Only属性" />
       <item value="Log Aspect" />
       <item value="current User" />
@@ -50,7 +51,6 @@
       <item value="Update your application's configuration" />
       <item value="Eureka Http Client Decorator" />
       <item value="Transport Exception" />
-      <item value="Cannot execute request on any known server" />
     </histories>
     <option name="languageScores">
       <map>
