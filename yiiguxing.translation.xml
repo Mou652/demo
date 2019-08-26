@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="result Seccessful" />
+      <item value="Http Servlet Response" />
+      <item value="Http Servlet Request" />
       <item value="set Property" />
       <item value="password" />
       <item value="username" />
@@ -48,14 +51,11 @@
       <item value="profiles" />
       <item value="active" />
       <item value="2019-07-30 00:34:48.860 INFO 782 --- [erListUpdater-0] c.netflix.config.ChainedDynamicProperty : Flipping property: PRODUCT.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647" />
-      <item value="choose" />
-      <item value="Secret" />
-      <item value="2019-07-28 23:15:08.754 WARN 15959 --- [ Thread-8] .s.c.a.CommonAnnotationBeanPostProcessor : Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="ENGLISH" value="41" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
