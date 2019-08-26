@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Api Operation" />
       <item value="result Seccessful" />
       <item value="Http Servlet Response" />
       <item value="Http Servlet Request" />
@@ -50,12 +51,11 @@
       <item value="org.springframework.mail.MailParseException: Could not parse mail; nested exception is javax.mail.internet.AddressException: Local address starts with dot in string ``.com''" />
       <item value="profiles" />
       <item value="active" />
-      <item value="2019-07-30 00:34:48.860 INFO 782 --- [erListUpdater-0] c.netflix.config.ChainedDynamicProperty : Flipping property: PRODUCT.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
