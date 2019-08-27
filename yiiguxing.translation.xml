@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="online" />
       <item value="avatar" />
       <item value="Monitor" />
       <item value="Api Operation" />
@@ -50,12 +51,11 @@
       <item value="javax.mail.MessagingException: Could not connect to SMTP host: smtp.qq.com, port: 465, response: -1" />
       <item value="DEBUG SMTP: trying to connect to host &quot;smtp.qq.com&quot;, port 465, isSSL false" />
       <item value="DEBUG: JavaMail version 1.6.2&#10;DEBUG: successfully loaded resource: /META-INF/javamail.default.address.map&#10;DEBUG: getProvider() returning javax.mail.Provider[TRANSPORT,smtp,com.sun.mail.smtp.SMTPTransport,Oracle]&#10;DEBUG SMTP: useEhlo true, useAuth false&#10;DEBUG SMTP: trying to connect to host &quot;smtp.qq.com&quot;, port 465, isSSL false" />
-      <item value="org.springframework.mail.MailParseException: Could not parse mail; nested exception is javax.mail.internet.AddressException: Local address starts with dot in string ``.com''" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
