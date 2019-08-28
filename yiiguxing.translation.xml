@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="to Json Str" />
+      <item value="parse Obj" />
       <item value="get Operating System" />
       <item value="get Memory" />
       <item value="get Hardware" />
@@ -49,13 +51,11 @@
       <item value="Abort Policy" />
       <item value="enabled" />
       <item value="discovery" />
-      <item value="basedir" />
-      <item value="not authorized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
