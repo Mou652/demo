@@ -74,6 +74,18 @@
           <option name="url" value="https://gitee.com/smallc/SpringBlade.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://171.217.95.94:8099/Mou652/dev-test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.20.1.132:8099/Mou652/dev-test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.20.1.132:8099" />
+          <option name="userName" value="Mou652" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
