@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="error in opening zip file" />
       <item value="daily --&gt; &lt;fileNamePattern&gt;${LOG_PATH}/info/sys-info.%d{yyyy-MM-dd-HH}.%i.log&lt;/fileNamePattern&gt; &lt;!-- 日志最大的历史 60天 --&gt; &lt;maxHistory&gt;60&lt;/maxHistory&gt; &lt;maxFileSize&gt;20MB&lt;/maxFileSize&gt; &lt;/rollingPolicy&gt;" />
       <item value="CONSOLE APPENDER" />
       <item value="include" />
@@ -50,12 +51,11 @@
       <item value="should Filter" />
       <item value="Caused by: java.net.ConnectException: Connection refused (Connection refused)" />
       <item value="com.sun.jersey.api.client.ClientHandlerException: java.net.ConnectException: Connection refused (Connection refused)" />
-      <item value="Array Blocking Queue" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
