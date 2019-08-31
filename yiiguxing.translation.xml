@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You may wish to exclude one of them to ensure predictable runtime behavior" />
       <item value="wait" />
       <item value="Removal" />
       <item value="get Cell Type Enum" />
@@ -50,12 +51,11 @@
       <item value="The Tomcat connector configured to listen on port 8888 failed to start. The port may already be in use or the connector may be misconfigured." />
       <item value="Verify the connector's configuration, identify and stop any process that's listening on port 8888, or configure this application to listen on another port." />
       <item value="ERROR in ch.qos.logback.core.rolling.RollingFileAppender[fileErrorLog] - Failed to create parent directories for [/var/log/tomcat/sell/error.2019-08-03.log]" />
-      <item value="* sets the sendZuulResponse boolean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
