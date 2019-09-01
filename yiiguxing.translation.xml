@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Jedis Moved Data Exception" />
+      <item value="抛出Jedis Moved Data Exception" />
       <item value="Array Index Out Of Bounds Exception" />
       <item value="MOVED 3521 10.20.4.238:7005" />
       <item value="put Object" />
@@ -49,13 +51,11 @@
       <item value="schedule Listener" />
       <item value="12" />
       <item value="transient" />
-      <item value="accept" />
-      <item value="Close Event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
