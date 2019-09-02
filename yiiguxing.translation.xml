@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* java -jar app.jar --spring.profiles.active=prod --server.port=2333" />
+      <item value="Desk Application" />
       <item value="Spring Cloud Application" />
       <item value="author" />
       <item value="Jedis Moved Data Exception" />
@@ -49,13 +51,11 @@
       <item value="reading" />
       <item value="Web Security Configurer Adapter" />
       <item value="Template Method" />
-      <item value="wrap Print" />
-      <item value="schedule Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
