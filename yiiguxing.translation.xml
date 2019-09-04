@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="auth License" />
+      <item value="ack Request" />
+      <item value="Chat Object" />
+      <item value="add Event Listener" />
+      <item value="Dep Tool Properties" />
       <item value="is Not Blank" />
       <item value="call Script" />
       <item value="kv Separator" />
@@ -46,16 +51,11 @@
       <item value="Api Operation" />
       <item value="result Seccessful" />
       <item value="Http Servlet Response" />
-      <item value="Http Servlet Request" />
-      <item value="set Property" />
-      <item value="password" />
-      <item value="username" />
-      <item value="having Value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="VIETNAMESE" value="1" />
