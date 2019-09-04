@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fully thread-safe." />
+      <item value="Handshake data used during client connection" />
+      <item value="Join client to room" />
+      <item value="room" />
       <item value="Strict Host Key Checking" />
       <item value="Remote Command" />
       <item value="Remote Command Utils工具类测试" />
@@ -47,15 +51,11 @@
       <item value="parse Obj" />
       <item value="get Operating System" />
       <item value="get Memory" />
-      <item value="get Hardware" />
-      <item value="get Processor" />
-      <item value="online" />
-      <item value="avatar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="VIETNAMESE" value="1" />
