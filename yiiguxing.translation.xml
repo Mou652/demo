@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
       <item value="cn.hutool.http.HttpException: Connection refused (Connection refused)" />
       <item value="wait For" />
       <item value="addr" />
@@ -50,12 +51,11 @@
       <item value="java.lang.Exception: No tests found matching Method test(com.cjc.dev.module.cache.serviceimplements.ehcache.EhCacheCacheServiceImplTest) from org.junit.internal.requests.ClassRequest@6127a7e" />
       <item value="get Cluster Nodes" />
       <item value="keys Pattern" />
-      <item value="You may wish to exclude one of them to ensure predictable runtime behavior" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
