@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PROJECT NAME" />
       <item value="DEV RSYNC PATH" />
       <item value="production" />
       <item value="staging" />
@@ -50,7 +51,6 @@
       <item value="service" />
       <item value="apidoc" />
       <item value="* java -jar app.jar --spring.profiles.active=prod --server.port=2333" />
-      <item value="Desk Application" />
     </histories>
     <option name="languageScores">
       <map>
