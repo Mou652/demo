@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error executing: dadsadsa" />
+      <item value=". Cause: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dadsadsa" />
       <item value="lock-all-tables" />
       <item value="/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;" />
       <item value="SVSP URL" />
@@ -49,13 +51,11 @@
       <item value="Jedis Moved Data Exception" />
       <item value="抛出Jedis Moved Data Exception" />
       <item value="Array Index Out Of Bounds Exception" />
-      <item value="MOVED 3521 10.20.4.238:7005" />
-      <item value="put Object" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="105" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
