@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="process.waitFor() == 0" />
       <item value="Error executing: dadsadsa" />
       <item value=". Cause: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dadsadsa" />
       <item value="lock-all-tables" />
@@ -50,7 +51,6 @@
       <item value="author" />
       <item value="Jedis Moved Data Exception" />
       <item value="抛出Jedis Moved Data Exception" />
-      <item value="Array Index Out Of Bounds Exception" />
     </histories>
     <option name="languageScores">
       <map>
