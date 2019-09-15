@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Encrypt" />
       <item value="argument type mismatch" />
       <item value="condition" />
       <item value="Condition" />
@@ -50,12 +51,11 @@
       <item value="add Event Listener" />
       <item value="Dep Tool Properties" />
       <item value="is Not Blank" />
-      <item value="call Script" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
