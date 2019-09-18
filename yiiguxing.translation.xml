@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="loadbalancer" />
       <item value="result Service Defeat" />
       <item value="cache Names" />
       <item value="Cacheable" />
@@ -50,7 +51,6 @@
       <item value="Remote Command Utils工具类测试" />
       <item value="add Host Key Verifier" />
       <item value="auth License" />
-      <item value="ack Request" />
     </histories>
     <option name="languageScores">
       <map>
