@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="predicates" />
+      <item value="pattern" />
       <item value="loadbalancer" />
       <item value="result Service Defeat" />
       <item value="cache Names" />
@@ -49,13 +51,11 @@
       <item value="Strict Host Key Checking" />
       <item value="Remote Command" />
       <item value="Remote Command Utils工具类测试" />
-      <item value="add Host Key Verifier" />
-      <item value="auth License" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="127" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
