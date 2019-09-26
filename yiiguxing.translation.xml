@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fail Reason" />
       <item value="COVER DATA" />
       <item value="ALLOW DATA" />
       <item value="title Line" />
@@ -50,12 +51,11 @@
       <item value="Fully thread-safe." />
       <item value="Handshake data used during client connection" />
       <item value="Join client to room" />
-      <item value="room" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
