@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="COVER DATA" />
+      <item value="ALLOW DATA" />
+      <item value="title Line" />
       <item value="predicates" />
       <item value="pattern" />
       <item value="loadbalancer" />
@@ -48,14 +51,11 @@
       <item value="Handshake data used during client connection" />
       <item value="Join client to room" />
       <item value="room" />
-      <item value="Strict Host Key Checking" />
-      <item value="Remote Command" />
-      <item value="Remote Command Utils工具类测试" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
