@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Border Left" />
+      <item value="set Default Column Width" />
+      <item value="Fast Byte Array Output Stream" />
       <item value="date Time" />
       <item value="fail Reason" />
       <item value="COVER DATA" />
@@ -48,9 +51,6 @@
       <item value="STOREPWD" />
       <item value="LICALIAS" />
       <item value="PUBLICALIAS" />
-      <item value="valid Project Name" />
-      <item value="Fully thread-safe." />
-      <item value="Handshake data used during client connection" />
     </histories>
     <option name="languageScores">
       <map>
