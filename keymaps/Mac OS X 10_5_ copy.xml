@@ -9,6 +9,9 @@
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="ECTranslation">
+    <keyboard-shortcut first-keystroke="ctrl meta i" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="Graph.ActualSize">
     <keyboard-shortcut first-keystroke="meta divide" />
