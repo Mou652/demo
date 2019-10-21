@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="find Business Move Tree" />
+      <item value="Edu Business Data VO" />
+      <item value="find Id By Ancestors" />
       <item value="Executors" />
       <item value="set Border Left" />
       <item value="set Default Column Width" />
@@ -48,17 +51,15 @@
       <item value="Deprecated" />
       <item value="level" />
       <item value="ALIAS" />
-      <item value="STORE" />
-      <item value="STOREPWD" />
-      <item value="LICALIAS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="135" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
+        <entry key="JAPANESE" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="VIETNAMESE" value="1" />
       </map>
