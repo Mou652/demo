@@ -142,6 +142,10 @@
           <option name="url" value="git@git.adamcoder.win:EduMainService/CloudServiceWorkbench.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.110.14:eduProduct/EduMainService/CloudServiceWorkbench.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
