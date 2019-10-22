@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Talk is cheap. Show me the code." />
       <item value="file Name" />
       <item value="find Business Move Tree" />
       <item value="Edu Business Data VO" />
@@ -50,12 +51,11 @@
       <item value="addr" />
       <item value="执行sql" />
       <item value="Deprecated" />
-      <item value="level" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="137" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
