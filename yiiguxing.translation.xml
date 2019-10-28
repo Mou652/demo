@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hikari" />
       <item value="front Stage Controller" />
       <item value="t visit" />
       <item value="Sort Mode" />
@@ -50,17 +51,16 @@
       <item value="SVSP URL" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
       <item value="cn.hutool.http.HttpException: Connection refused (Connection refused)" />
-      <item value="wait For" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
+        <entry key="CHINESE" value="139" />
         <entry key="ENGLISH" value="139" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="1" />
+        <entry key="JAPANESE" value="2" />
         <entry key="INDONESIAN" value="2" />
         <entry key="VIETNAMESE" value="1" />
       </map>
