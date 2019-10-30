@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Accessors" />
+      <item value="Binding Result" />
+      <item value="Insert Posts" />
       <item value="check And Init Page" />
       <item value="Posts Controller" />
       <item value="System Monitor" />
@@ -48,14 +51,11 @@
       <item value="production" />
       <item value="staging" />
       <item value="stages" />
-      <item value="process.waitFor() == 0" />
-      <item value="Error executing: dadsadsa" />
-      <item value=". Cause: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dadsadsa" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="144" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="4" />
