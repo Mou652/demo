@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="highlight" />
       <item value="bold Magenta" />
       <item value="green" />
       <item value="qiniuyun Store" />
@@ -50,12 +51,11 @@
       <item value="get Query Wrapper" />
       <item value="Dict" />
       <item value="PROJECT NAME" />
-      <item value="DEV RSYNC PATH" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="148" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="4" />
