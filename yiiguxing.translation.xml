@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="archive" />
       <item value="SITE" />
       <item value="result Operation Defeat" />
       <item value="highlight" />
@@ -50,12 +51,11 @@
       <item value="log4j:WARN No appenders could be found for logger (org.springframework.web.context.ContextLoader)." />
       <item value="log4j:WARN Please initialize the log4j system properly." />
       <item value="Launcher" />
-      <item value="get Query Wrapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="4" />
