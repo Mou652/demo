@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Query was empty" />
       <item value="create With Model" />
       <item value="Login Required" />
       <item value="archive" />
@@ -50,12 +51,11 @@
       <item value="stat" />
       <item value="Func" />
       <item value="### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'role_id' in 'where clause'" />
-      <item value="log4j:WARN No appenders could be found for logger (org.springframework.web.context.ContextLoader)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="4" />
